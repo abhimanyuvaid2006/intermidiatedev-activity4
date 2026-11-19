@@ -11,7 +11,7 @@ from PySide6.QtWidgets import (QMainWindow,
                                QLayout,
                                QVBoxLayout)
 
-__author__ = "ACE Faculty"
+__author__ = "Abhimanyu"
 __version__ = "1.0.0"
 
 class MainWindow(QMainWindow):
